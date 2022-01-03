@@ -14,10 +14,10 @@ const GlobalStyles = createGlobalStyle`
             background-color: darkgrey;
         }
         &::-webkit-scrollbar-track {
-           background: white;
-           }
+    background: white;
+  }
     }
-    /* body{
+    body{
         font-family: 'Montserrat', sans-serif;
         width: 100%;
     }
@@ -47,7 +47,7 @@ const GlobalStyles = createGlobalStyle`
     input{
         font-weight: bold;
     font-family: "Montserrat", sans-serif;
-    } */
+    }
 `;
 
 export default GlobalStyles;
